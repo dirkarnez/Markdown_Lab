@@ -7,6 +7,5 @@
 </pre></p>
 </td></tr></table>
 
-![Alt text](./sadsa.svg)
 <img src="./sadsa.svg">
 
