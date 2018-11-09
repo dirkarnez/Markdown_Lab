@@ -9,3 +9,5 @@
 
 <img src="./sadsa.svg">
 
+Inline-style: 
+![alt text](./sadsa "Logo Title Text 1")
